@@ -1,5 +1,7 @@
 package operater;
 // 비교 연산자2
+// 문자열이 같은지 비교할 때는 == 이 아니라 .equals() 메서드를 사용해야 한다.
+// ==를 사용하면 성공할 때도 있지만 실패할 때도 있다.
 public class Comp2 {
 
     public static void main(String[] args) {
