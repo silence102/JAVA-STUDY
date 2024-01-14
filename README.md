@@ -33,13 +33,14 @@
         public class Java{
   
             public static void main(String[] args) {
-                System.out.println("Hello Java");
+                System.out.println("JAVA STUDY");
             }
         }
-### ``` "JAVA STUDY" ```
+### ``` >>> JAVA STUDY ```
 
-#### [출처](https://code-lab1.tistory.com/63)
 ---
 
-###### [출처](https://backendcode.tistory.com/165)
+###### [출처](https://code-lab1.tistory.com/63) - 자바(Java) 란?
+
+###### [출처](https://backendcode.tistory.com/165) - MarkDown 작성법
   
